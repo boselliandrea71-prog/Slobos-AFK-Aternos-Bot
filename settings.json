@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "vanilla-R0E7.aternos.me",
+    "ip": "vanilla-R0E7.aternos.me:11306",
     "port": 11306,
     "version": "1.21.11",
     "try-creative": false
